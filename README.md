@@ -8,4 +8,4 @@ ASSUMPTIONS:
 1. All binary values generated using probabilities are binary random variables.
 2. Call durations for the employees are always between the maximum and minimum values which is obvtained from the dataset
 
-The doc file consists of the graphs obtained from the simulation.
+The pdf file consists of the graphs obtained from the simulation.
